@@ -2,6 +2,7 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:tab="sap.ui.table">
     <Page id="page" title="{i18n>title}">
+	<Button text="check git"> </Button> 
         <content>
             
 			
